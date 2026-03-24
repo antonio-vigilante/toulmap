@@ -1,0 +1,21 @@
+# PyInstaller
+dist/
+build/
+*.spec.bak
+
+# Installer output
+installer_output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+venv/
+.env/
+
+# Editor
+.vscode/
+*.kate-swp
